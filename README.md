@@ -126,14 +126,4 @@ This project successfully demonstrates:
 
 ---
 
-### 🏁 How to Use
-
-1. Clone this repository
-
-   ```bash
-   git clone https://github.com/your-username/E-Commerce-Sales-Analysis.git
-   ```
-2. Open the project in **SQL Server Management Studio (SSMS 21)**
-3. Import the provided `.csv` datasets into tables
-4. Run the SQL scripts to explore and analyze data
 
