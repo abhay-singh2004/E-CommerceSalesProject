@@ -1,0 +1,101 @@
+CustomerID,Name,Country,City,JoinDate
+C001,Arthur,UK,London,2022-07-18
+C002,Mei,China,Beijing,2021-10-13
+C003,Eleanor,UK,Liverpool,2021-06-28
+C004,João,Brazil,Rio de Janeiro,2021-03-07
+C005,Samantha,USA,New York,2022-03-24
+C006,Wei,China,Shanghai,2022-09-02
+C007,Sophie,France,Paris,2021-05-15
+C008,Li,China,Guangzhou,2022-04-10
+C009,Ethan,USA,Los Angeles,2021-11-20
+C010,Hanna,Germany,Berlin,2021-08-01
+C011,Chen,China,Shenzhen,2023-01-25
+C012,Charlotte,UK,Manchester,2022-06-05
+C013,Max,Germany,Munich,2021-12-19
+C014,Madison,USA,Chicago,2022-10-28
+C015,Pierre,France,Lyon,2023-03-12
+C016,William,UK,Edinburgh,2021-04-03
+C017,Camila,Brazil,Salvador,2022-08-14
+C018,Florence,UK,Bristol,2021-09-17
+C019,Liam,Canada,Toronto,2022-02-28
+C020,George,UK,Birmingham,2023-05-01
+C021,Jasmine,Singapore,Singapore,2021-07-07
+C022,Jonas,Germany,Hamburg,2022-01-08
+C023,Olivia,Canada,Vancouver,2023-02-14
+C024,Enzo,Brazil,Brasília,2021-06-21
+C025,Camille,France,Marseille,2022-11-09
+C026,Aarav,India,Mumbai,2023-04-05
+C027,Emma,Canada,Montreal,2021-03-29
+C028,Leon,Germany,Cologne,2022-05-18
+C029,Harper,USA,Houston,2023-06-22
+C030,Noah,Canada,Calgary,2021-10-06
+C031,Isabela,Brazil,Fortaleza,2022-03-03
+C032,Jing,China,Chengdu,2021-08-26
+C033,Chloe,Australia,Sydney,2022-12-15
+C034,Riya,India,Delhi,2023-07-09
+C035,Tao,China,Wuhan,2021-05-27
+C036,Lucas,Brazil,Curitiba,2022-04-19
+C037,Mia,Germany,Frankfurt,2023-01-10
+C038,Théo,France,Nice,2021-11-03
+C039,Avery,USA,Dallas,2022-06-16
+C040,Vivaan,India,Bangalore,2023-08-28
+C041,Manuela,Brazil,Manaus,2022-05-09
+C042,Jack,Australia,Melbourne,2021-07-22
+C043,Adèle,France,Toulouse,2023-03-01
+C044,Frederick,UK,Glasgow,2021-09-08
+C045,Clara,Germany,Stuttgart,2022-10-01
+C046,Grace,Australia,Brisbane,2023-04-14
+C047,Logan,USA,Phoenix,2021-12-07
+C048,Louis,France,Bordeaux,2022-07-29
+C049,Elizabeth,UK,Southampton,2023-01-03
+C050,Juliette,France,Lille,2021-08-19
+C051,Ananya,India,Chennai,2022-09-11
+C052,Gaspard,France,Strasbourg,2023-06-08
+C053,Larissa,Brazil,Recife,2021-04-25
+C054,Evelyn,USA,Philadelphia,2022-02-09
+C055,Benjamin,Canada,Ottawa,2023-05-23
+C056,Hua,China,Hangzhou,2021-03-16
+C057,Alfie,UK,Belfast,2022-08-05
+C058,Amelia,UK,Leeds,2023-07-18
+C059,Reyansh,India,Hyderabad,2021-11-29
+C060,Chloé,France,Nantes,2022-10-14
+C061,Victor,France,Rennes,2023-02-01
+C062,Xinyi,China,Suzhou,2021-06-10
+C063,Marcus,Canada,Quebec City,2022-12-04
+C064,Jun,Singapore,Singapore,2023-09-19
+C065,Emilia,China,Tianjin,2021-07-31
+C066,Daniel,Germany,Düsseldorf,2022-04-29
+C067,Ivy,Brazil,Belém,2023-01-17
+C068,Fang,UK,Cardiff,2021-10-22
+C069,Alexander,China,Chongqing,2022-05-05
+C070,Yue,Germany,Leipzig,2023-03-29
+C071,Rong,China,Xi'an,2021-05-01
+C072,Alice,China,Nanjing,2022-09-24
+C073,Zhi,Brazil,Goiania,2023-04-20
+C074,Wen,China,Dongguan,2021-09-01
+C075,Ethan,China,Shenyang,2022-11-16
+C076,Isla,Australia,Perth,2023-08-03
+C077,Stanley,Australia,Adelaide,2021-03-10
+C078,Paul,UK,Oxford,2022-06-29
+C079,Dan,Germany,Essen,2023-01-20
+C080,Sia,China,Qingdao,2021-11-11
+C081,Henry,India,Pune,2022-04-07
+C082,Matilda,Canada,Edmonton,2023-07-02
+C083,Owen,UK,Cambridge,2021-05-08
+C084,Archie,USA,San Antonio,2022-08-10
+C085,Ava,UK,Brighton,2023-03-18
+C086,Hong,Australia,Gold Coast,2021-10-27
+C087,Aditi,China,Dalian,2022-06-01
+C088,Oliver,India,Jaipur,2023-02-21
+C089,Madeline,Australia,Canberra,2021-04-12
+C090,Kabir,Canada,Victoria,2022-09-06
+C091,Feng,India,Ahmedabad,2023-06-15
+C092,Sophie,China,Hefei,2021-07-27
+C093,Valentina,Germany,Dortmund,2022-12-29
+C094,Mathieu,Brazil,Porto Alegre,2023-05-16
+C095,Manon,France,Grenoble,2021-04-19
+C096,Harrison,France,Paris,2022-01-16
+C097,Shaun,UK,Liverpool,2021-05-20
+C098,Sofia,China,Shanghai,2021-09-03
+C099,Gabriel,Brazil,Sao Paulo,2021-03-23
+C100,Leo,Brazil,Sao Paulo,2023-05-09

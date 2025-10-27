@@ -1,0 +1,24 @@
+ProductID,ProductName,Category,UnitPrice,Stock
+P001,iPhone 15,Electronics,992.91,164
+P002,MacBook Air,Electronics,793.72,86
+P003,Samsung Galaxy S23,Electronics,322.3,100
+P004,Sony Headphones,Electronics,373.26,121
+P005,Dell XPS 13,Electronics,213.7,185
+P006,Apple Watch,Electronics,464.0,100
+P007,GoPro Hero 12,Electronics,1394.95,38
+P008,Levi’s Jeans,Fashion,33.79,179
+P009,H&M T-Shirt,Fashion,1497.71,45
+P010,Zara Jacket,Fashion,128.43,74
+P011,Nike Hoodie,Fashion,768.71,53
+P012,Adidas Sneakers,Fashion,1401.22,37
+P013,Philips Air Fryer,Home,1321.32,114
+P014,IKEA Chair,Home,441.78,132
+P015,Dyson Vacuum,Home,1253.94,200
+P016,KitchenAid Mixer,Home,467.73,187
+P017,Adidas Football,Sports,802.83,190
+P018,Nike Air Shoes,Sports,1229.31,96
+P019,Puma Shorts,Sports,1399.0,46
+P020,Under Armour Cap,Sports,1409.62,54
+P021,L’Oreal Shampoo,Beauty,411.41,47
+P022,Maybelline Mascara,Beauty,1118.78,59
+P023,Nivea Cream,Beauty,423.08,174
