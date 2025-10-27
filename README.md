@@ -57,39 +57,6 @@ Each file contains **cleaned and realistic data** ready for import into SQL Serv
 
 ---
 
-### 💡 Sample SQL Queries
-
-**Top 10 Best-Selling Products**
-
-```sql
-SELECT TOP 10 P.ProductName, SUM(OD.Quantity * OD.UnitPrice) AS TotalRevenue
-FROM OrderDetails OD
-JOIN Products P ON OD.ProductID = P.ProductID
-GROUP BY P.ProductName
-ORDER BY TotalRevenue DESC;
-```
-
-**Country-wise Revenue**
-
-```sql
-SELECT C.Country, SUM(O.TotalAmount) AS TotalSales
-FROM Orders O
-JOIN Customers C ON O.CustomerID = C.CustomerID
-GROUP BY C.Country
-ORDER BY TotalSales DESC;
-```
-
-**Monthly Sales Trend**
-
-```sql
-SELECT FORMAT(OrderDate, 'yyyy-MM') AS Month, SUM(TotalAmount) AS MonthlyRevenue
-FROM Orders
-GROUP BY FORMAT(OrderDate, 'yyyy-MM')
-ORDER BY Month;
-```
-
----
-
 ### 📈 Insights You Can Derive
 
 * Top-performing **countries and products** by sales
@@ -116,14 +83,6 @@ This project successfully demonstrates:
 * Strong SQL skills (joins, grouping, subqueries, analytical queries)
 * Data-driven insights to support e-commerce business decisions
 
----
 
-### 👨‍💻 Author
-
-**Abhay Singh Chauhan**
-📧 *[your email or LinkedIn link here]*
-💼 Passionate about Data Analytics | SQL | Python | Business Intelligence
-
----
 
 
